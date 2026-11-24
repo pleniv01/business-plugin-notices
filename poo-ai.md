@@ -1,6 +1,6 @@
 # Poo.ai plugin privacy notice
 
-ChatGPT draft updated 2026-11-04. Operator: Magichaus. This notice covers this ChatGPT
+ChatGPT draft updated 2026-11-04. Operator: Post Hoc Labs. This notice covers this ChatGPT
 plugin, not all services available on the Poo.ai website.
 
 ## Within ChatGPT

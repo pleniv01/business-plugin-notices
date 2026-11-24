@@ -1,6 +1,6 @@
 # Psychic.ai ChatGPT plugin privacy
 
-ChatGPT draft updated 2026-11-04. Publisher: Psychic.ai, operated by MagicHaus.
+ChatGPT draft updated 2026-11-04. Publisher: Psychic.ai, operated by Post Hoc Labs.
 
 This notice covers this skills-only plugin, not every service available on the
 Psychic.ai website.
